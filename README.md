@@ -1,6 +1,6 @@
 # Group17-Section B-ASE Project
 
-Project Title: Bid 'N' Win Auction App
+Project Title: Bid 'N' Win Auction App         
 Project Description: An online auction application which acts like a common portal for auctioneers and bidders.
 
 Technologies: 
